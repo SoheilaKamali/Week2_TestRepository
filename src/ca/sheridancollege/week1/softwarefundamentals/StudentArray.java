@@ -1,6 +1,7 @@
 /*
- * This is my fitst commit
- *
+ * This is my first commit
+tsting .gitignore feature 
+ *asfd
  * 
  */
 package ca.sheridancollege.week1.softwarefundamentals;
